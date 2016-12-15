@@ -117,6 +117,30 @@
                ReferencedContainer = "container:Client.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "D39FA15E1A83E0EC00EE869C"
+               BuildableName = "UITests.xctest"
+               BlueprintName = "UITests"
+               ReferencedContainer = "container:Client.xcodeproj">
+            </BuildableReference>
+            <SkippedTests>
+               <Test
+                  Identifier = "FindInPageTests/testFindFromSelection()">
+               </Test>
+               <Test
+                  Identifier = "ReaderViewUITests">
+               </Test>
+               <Test
+                  Identifier = "TopSitesTests">
+               </Test>
+               <Test
+                  Identifier = "TopTabsTests">
+               </Test>
+            </SkippedTests>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
