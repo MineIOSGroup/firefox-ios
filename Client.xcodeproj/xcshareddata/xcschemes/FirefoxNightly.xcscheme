@@ -128,6 +128,9 @@
             </BuildableReference>
             <SkippedTests>
                <Test
+                  Identifier = "AuthenticationManagerTests">
+               </Test>
+               <Test
                   Identifier = "FindInPageTests/testFindFromSelection()">
                </Test>
                <Test
