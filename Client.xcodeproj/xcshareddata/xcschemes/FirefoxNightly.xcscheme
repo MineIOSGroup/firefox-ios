@@ -38,7 +38,7 @@
       </PreActions>
       <Testables>
          <TestableReference
-            skipped = "NO">
+            skipped = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2FA436041ABB83B4008031D1"
@@ -48,7 +48,7 @@
             </BuildableReference>
          </TestableReference>
          <TestableReference
-            skipped = "NO">
+            skipped = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "F84B21D21A090F8100AAB793"
@@ -58,7 +58,7 @@
             </BuildableReference>
          </TestableReference>
          <TestableReference
-            skipped = "NO">
+            skipped = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E6F9650B1B2F1CF20034B023"
@@ -78,7 +78,7 @@
             </BuildableReference>
          </TestableReference>
          <TestableReference
-            skipped = "NO">
+            skipped = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2FCAE2231ABB51F800877008"
@@ -88,7 +88,7 @@
             </BuildableReference>
          </TestableReference>
          <TestableReference
-            skipped = "NO">
+            skipped = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "282731671ABC9BE700AA1954"
@@ -98,7 +98,7 @@
             </BuildableReference>
          </TestableReference>
          <TestableReference
-            skipped = "NO">
+            skipped = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E4D567211ADECE2700F1EFE7"
@@ -108,7 +108,7 @@
             </BuildableReference>
          </TestableReference>
          <TestableReference
-            skipped = "NO">
+            skipped = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "3BFE4B061D342FB800DDF53F"
@@ -128,70 +128,10 @@
             </BuildableReference>
             <SkippedTests>
                <Test
-                  Identifier = "AuthenticationManagerTests">
-               </Test>
-               <Test
-                  Identifier = "AuthenticationTests">
-               </Test>
-               <Test
-                  Identifier = "BookmarkingTests">
-               </Test>
-               <Test
-                  Identifier = "BookmarksPanelTests">
-               </Test>
-               <Test
-                  Identifier = "BrowserTests">
-               </Test>
-               <Test
-                  Identifier = "ClearPrivateDataTests">
-               </Test>
-               <Test
-                  Identifier = "DomainAutocompleteTests">
-               </Test>
-               <Test
-                  Identifier = "FindInPageTests">
-               </Test>
-               <Test
                   Identifier = "FindInPageTests/testFindFromSelection()">
                </Test>
                <Test
-                  Identifier = "HistoryTests">
-               </Test>
-               <Test
-                  Identifier = "HomePageSettingsUITests">
-               </Test>
-               <Test
-                  Identifier = "LoginInputTests">
-               </Test>
-               <Test
-                  Identifier = "LoginManagerTests">
-               </Test>
-               <Test
-                  Identifier = "NavigationTests">
-               </Test>
-               <Test
                   Identifier = "ReaderViewUITests">
-               </Test>
-               <Test
-                  Identifier = "ReadingListTests">
-               </Test>
-               <Test
-                  Identifier = "SearchSettingsUITests">
-               </Test>
-               <Test
-                  Identifier = "SearchTests">
-               </Test>
-               <Test
-                  Identifier = "SecurityTests">
-               </Test>
-               <Test
-                  Identifier = "SessionRestoreTests">
-               </Test>
-               <Test
-                  Identifier = "SettingsTests">
-               </Test>
-               <Test
-                  Identifier = "ToolbarTests">
                </Test>
                <Test
                   Identifier = "TopSitesTests">
