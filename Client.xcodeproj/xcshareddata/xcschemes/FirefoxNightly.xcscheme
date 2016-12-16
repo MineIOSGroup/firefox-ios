@@ -131,6 +131,9 @@
                   Identifier = "FindInPageTests/testFindFromSelection()">
                </Test>
                <Test
+                  Identifier = "PrivateBrowsingTests/testClosePrivateTabsClosesPrivateTabs()">
+               </Test>
+               <Test
                   Identifier = "ReaderViewUITests">
                </Test>
                <Test
